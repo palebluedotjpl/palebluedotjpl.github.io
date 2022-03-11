@@ -1,2 +1,2 @@
-# palebuedotjpl.github.io
+# palebluedotjpl.github.io
 Pale Blue Dot
